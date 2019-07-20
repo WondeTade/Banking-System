@@ -5,7 +5,8 @@ public class MHS_BankAccount {
     
     private String bankAccount;
     private double accBalance ;
-    double [][] bankInfo = {{1234111222.0, 1205.56},
+	//Bank information: holds account number and associated balance
+    double [][] bankInfo = {{1234111222.0, 1205.56}, 
                             {1423111222.0, 1205.56},
                             {5531111222.0, 1205.56},
                             {9951612229.0, 1205.56}};
