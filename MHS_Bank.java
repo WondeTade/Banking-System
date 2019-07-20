@@ -5,6 +5,8 @@ public class MHS_Bank {
     private String bankAccount;
     private double balance;
     MHS_BankAccount MHSbank = new MHS_BankAccount();
+	
+	//String array that holds bank clearing number and the corresponding bank name
     String [][] banks = {{"1234", "Nordea"},
                          {"1423", "Handelsbanken"},
                          {"5531", "SEB"}, 
