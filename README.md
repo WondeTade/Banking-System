@@ -1,1 +1,1 @@
-# Banking-System
+Money Handling System (MHS): The system handels request coming from client (In this case service provider), and checks whether the stated bank account number has sufficient balance or not then responds accordingly. The System has three classes The main class (MHS_Main), Bank account holder calss (MHS_BankAccount) and bank info holder class (MHS_Bank). Then unit testing class (MHS_Test))))
